@@ -1,5 +1,3 @@
-she/her
-
 I'm still leaning to use Git so when I mess somehing up, please be patient.
 
 Hi I'm just another codemonkey. I know a few languages (+ "languages") such as Rust, C, C++, HTML, JavaScript, Python, C#, Java, and SCLang
